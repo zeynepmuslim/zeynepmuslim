@@ -1,4 +1,5 @@
 ## Hi there 👋
+![snake gif](https://github.com/zeynepmuslim/zeynepmuslim/blob/output/github-snake-dark.svg)
 
 <!--
 **zeynepmuslim/zeynepmuslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
