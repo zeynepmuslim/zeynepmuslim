@@ -1,7 +1,3 @@
-
-![snake gif](https://github.com/zeynepmuslim/zeynepmuslim/blob/output/github-snake-dark.svg)
-
-
 <pre>
 ▌ ▌▗    ▜▘▝▌    ▀▀▌               
 ▙▄▌▄    ▐ ▝▛▚▀▖  ▞ ▞▀▖▌ ▌▛▀▖▞▀▖▛▀▖
@@ -18,23 +14,35 @@ I’m an iOS developer based in Istanbul, Turkey. I’m currently studying Softw
 ## My Tool Kit
 | For Building Cool Stuff | For Making It Beautiful |
 | --- | --- |
-|<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> </p> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>  <img src="assets/affinity.png" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45"/>    <img src="assets/illustrator.png" width="45" height="45"/>  <img src="assets/premiere.png" width="45" height="45"/>  <img src="assets/procreate.png" width="45" height="45"/></p> 
+|<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> </p> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>  <img src="assets/affinity.png" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45"/>    <img src="assets/illustrator.png" width="45" height="45"/>  <img src="assets/premiere.png" width="45" height="45"/>  <img src="assets/procreate.png" width="45" height="45"/></p> 
 
-## Published Apps
-
-| App Store | GitHub |
-|-----|--------|
-| <div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
-| <div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
-| <div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
-| <div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
-| <div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
-
-| <div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div> | <div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div> | <div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div> | <div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div> | <div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div> |
-|:---:|:---:|:---:|:---:|:---:|
-| [<img src="assets/app/spy.png" alt="Spy Icon" width="40"/>](APP_STORE_LINK_1) | [![App Store](appstore-badge.png)](APP_STORE_LINK_2) | [![App Store](appstore-badge.png)](APP_STORE_LINK_3) | [![App Store](appstore-badge.png)](APP_STORE_LINK_4) | [![App Store](appstore-badge.png)](APP_STORE_LINK_5) |
-| [![GitHub](github-logo.png)](GITHUB_LINK_1) | [![GitHub](github-logo.png)](GITHUB_LINK_2) | [![GitHub](github-logo.png)](GITHUB_LINK_3) | [![GitHub](github-logo.png)](GITHUB_LINK_4) | [![GitHub](github-logo.png)](GITHUB_LINK_5) |
+## Projects
 
 |**App Store** | [<div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div>](https://apps.apple.com/us/app/spy-the-game/id6748213306) | [<div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div>](https://apps.apple.com/us/app/taskhub/id6739947000) | [<div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div>](https://apps.apple.com/us/app/tap-and-rise/id1547185387) | [<div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div>](https://apps.apple.com/us/app/catch-game-for-cats/id1560331647) | [<div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div>](https://apps.apple.com/us/app/4-i-şlem-oyunu/id1528334211) |
 |---|---|---|---|---|---|
-| **GitHub** | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/SPY)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/to-do-list)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/Tap-and-Rise)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/4-islem-oyunu)</div> |
+| **GitHub** | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/SPY)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/to-do-list)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/Tap-and-Rise)</div> | <div align="center"><a href="https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr"><img src="assets/github.png" width="40" hspace="10"/></a><a href="https://www.youtube.com/watch?v=BXSjI45fGPI&t=451s"><img src="assets/youtube.png" width="40" hspace="10"/></a></div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/4-islem-oyunu)</div> |
+
+## ✒️ Selected writing
+
+- [*How to Code a Rolling Ball with Swift*](http://zeynepmuslim.blog/post.html?post=draggable-ball-eng%2Fdraggable-ball-eng.md)
+
+  
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <!-- Left section: Title + Text -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h2>👀 Fun Fact</h2>
+    <p>
+      Also (if you still haven’t figured it out), I absolutely love riding motorcycles.
+    </p>
+  </div>
+
+  <!-- Right section: Image -->
+  <div style="flex-shrink: 0;">
+    <img src="assets/bike.png" alt="Preview" width="300"/>
+  </div>
+
+</div>
+
+![snake gif](https://github.com/zeynepmuslim/zeynepmuslim/blob/output/github-snake-dark.svg)
+
