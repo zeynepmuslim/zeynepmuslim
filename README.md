@@ -1,6 +1,6 @@
-## Hi there 👋
+
 ![snake gif](https://github.com/zeynepmuslim/zeynepmuslim/blob/output/github-snake-dark.svg)
-</p>
+
 
 <pre>
 ▌ ▌▗    ▜▘▝▌    ▀▀▌               
@@ -22,15 +22,19 @@ I’m an iOS developer based in Istanbul, Turkey. I’m currently studying Softw
 
 ## Published Apps
 
-| App | App Store | GitHub |
-|-----|-----------|--------|
-| <div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div> | [<img src="assets/app/spy.png" alt="Spy Icon" width="40"/>](APP_STORE_LINK_1) | [![GitHub](github-logo.png)](GITHUB_LINK_1) |
-| <div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div> | [![App Store](appstore-badge.png)](APP_STORE_LINK_2) | [![GitHub](github-logo.png)](GITHUB_LINK_2) |
-| <div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div> | [![App Store](appstore-badge.png)](APP_STORE_LINK_3) | [![GitHub](github-logo.png)](GITHUB_LINK_3) |
-| <div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div> | [![App Store](appstore-badge.png)](APP_STORE_LINK_4) | [![GitHub](github-logo.png)](GITHUB_LINK_4) |
-| <div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div> | [![App Store](appstore-badge.png)](APP_STORE_LINK_5) | [![GitHub](github-logo.png)](GITHUB_LINK_5) |
+| App Store | GitHub |
+|-----|--------|
+| <div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
+| <div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
+| <div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
+| <div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
+| <div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div> | <div align="center">[<img src="assets/github.png" width="40"/>](GITHUB_LINK_1)</div> |
 
 | <div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div> | <div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div> | <div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div> | <div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div> | <div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div> |
 |:---:|:---:|:---:|:---:|:---:|
 | [<img src="assets/app/spy.png" alt="Spy Icon" width="40"/>](APP_STORE_LINK_1) | [![App Store](appstore-badge.png)](APP_STORE_LINK_2) | [![App Store](appstore-badge.png)](APP_STORE_LINK_3) | [![App Store](appstore-badge.png)](APP_STORE_LINK_4) | [![App Store](appstore-badge.png)](APP_STORE_LINK_5) |
 | [![GitHub](github-logo.png)](GITHUB_LINK_1) | [![GitHub](github-logo.png)](GITHUB_LINK_2) | [![GitHub](github-logo.png)](GITHUB_LINK_3) | [![GitHub](github-logo.png)](GITHUB_LINK_4) | [![GitHub](github-logo.png)](GITHUB_LINK_5) |
+
+|**App Store** | [<div align="center"><img src="assets/app/spy.png" width="40"/><br><b>Spy</b></div>](https://apps.apple.com/us/app/spy-the-game/id6748213306) | [<div align="center"><img src="assets/app/taskhub.png" width="40"/><br><b>TaskHub</b></div>](https://apps.apple.com/us/app/taskhub/id6739947000) | [<div align="center"><img src="assets/app/tap.png" width="40"/><br><b>Tap and Rise</b></div>](https://apps.apple.com/us/app/tap-and-rise/id1547185387) | [<div align="center"><img src="assets/app/catch.png" width="40"/><br><b>Catch Game For Cats</b></div>](https://apps.apple.com/us/app/catch-game-for-cats/id1560331647) | [<div align="center"><img src="assets/app/dort.png" width="40"/><br><b>4 İşlem Oyunu</b></div>](https://apps.apple.com/us/app/4-i-şlem-oyunu/id1528334211) |
+|---|---|---|---|---|---|
+| **GitHub** | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/SPY)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/to-do-list)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/Tap-and-Rise)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/4-islem-oyunu)</div> |
