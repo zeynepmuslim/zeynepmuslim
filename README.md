@@ -22,14 +22,15 @@ I’m an iOS developer based in Istanbul, Turkey. I’m currently studying Softw
 |---|---|---|---|---|---|
 | **GitHub** | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/SPY)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/to-do-list)</div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/Tap-and-Rise)</div> | <div align="center"><a href="https://apps.apple.com/tr/app/catch-game-for-cats/id1560331647?l=tr"><img src="assets/github.png" width="40" hspace="10"/></a><a href="https://www.youtube.com/watch?v=BXSjI45fGPI&t=451s"><img src="assets/youtube.png" width="40" hspace="10"/></a></div> | <div align="center">[<img src="assets/github.png" width="40"/>](https://github.com/zeynepmuslim/4-islem-oyunu)</div> |
 
+- [**Draggable Ball: a UIKit component** ](https://github.com/zeynepmuslim/draggable-ball)
+- **Legacy Website:** www.old.zeynepmuslim.com(2021) - [the repo](https://github.com/zeynepmuslim/portfolio)
+
 ## ✒️ Selected writing
 
 - [*How to Code a Rolling Ball with Swift*](http://zeynepmuslim.blog/post.html?post=draggable-ball-eng%2Fdraggable-ball-eng.md)
 
-  
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-  <!-- Left section: Title + Text -->
   <div style="flex: 1; padding-right: 20px;">
     <h2>👀 Fun Fact</h2>
     <p>
@@ -37,9 +38,8 @@ I’m an iOS developer based in Istanbul, Turkey. I’m currently studying Softw
     </p>
   </div>
 
-  <!-- Right section: Image -->
   <div style="flex-shrink: 0;">
-    <img src="assets/bike.png" alt="Preview" width="300"/>
+    <img src="assets/bike.png"/>
   </div>
 
 </div>
