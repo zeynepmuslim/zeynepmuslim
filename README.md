@@ -4,8 +4,10 @@
 ▌ ▌▐ ▗▖ ▐  ▌▐ ▌ ▞  ▛▀ ▚▄▌▌ ▌▛▀ ▙▄▘
 ▘ ▘▀▘▗▘ ▀▘ ▘▝ ▘ ▀▀▘▝▀▘▗▄▘▘ ▘▝▀▘▌  
 </pre>
-
 I’m an iOS developer based in Istanbul, Turkey. I’m currently studying Software Engineering as a third-year student. Alongside my academic journey, I focus on building projects and improving my skills in mobile app development.
+```bash
+npx zeynep # Run this in your terminal and let the magic happen 🪄
+```
 
 ## About Me  
 | - My Website : www.zeynepmuslim.com <br> - My Blog : [www.zeynepmuslim.blog](http://www.zeynepmuslim.blog) <br><br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-m%C3%BCslim/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@zeynepmuslim) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zeynepmuslim) | <img src="assets/helmet.png" alt="Zeynep Müslim" width="200" style="border-radius:50%"/> |
