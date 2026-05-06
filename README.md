@@ -14,9 +14,17 @@ npx zeynep # Run this in your terminal and let the magic happen
 | :--- | --- |
 
 ## My Tool Kit
-| For Building Cool Stuff | For Making It Beautiful |
-| --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>&nbsp;<img src="assets/affinity.png" width="45" height="45"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45" height="45"/>&nbsp;<img src="assets/illustrator.png" width="45" height="45"/>&nbsp;<img src="assets/premiere.png" width="45" height="45"/>&nbsp;<img src="assets/procreate.png" width="45" height="45"/>&nbsp;<img src="assets/sketch.png" width="45" height="45"/>&nbsp;<img src="assets/finalcut.png" width="45" height="45"/> |
+
+<table>
+<tr>
+<th>For Building Cool Stuff</th>
+<th>For Making It Beautiful</th>
+</tr>
+<tr>
+<td valign="top"><img src="assets/cool.png" alt="Swift, JavaScript, Vue, Git, Tailwind" width="200"/></td>
+<td valign="top"><img src="assets/beatiful.png" alt="Sketch, Figma, Final Cut, Procreate, Illustrator, Premiere, Photoshop, Affinity" width="280"/></td>
+</tr>
+</table>
 
 ## Projects
 
