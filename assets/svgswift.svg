@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="362px" height="311px" viewBox="0 0 362 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="51.5697096%" y1="42.7125274%" x2="48.9983667%" y2="86.5409042%" id="linearGradient-1">
+            <stop stop-color="#A84591" offset="0%"></stop>
+            <stop stop-color="#2E35CA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frame" transform="translate(-54, -57)">
+            <g id="Group" transform="translate(-3, 28)">
+                <path d="M295.776067,46.3546561 C307.845498,54.9902808 319.913166,65.0250308 331.175254,76.3506208 C353.680165,98.9824288 370.083746,123.83603 377.800659,150.553162 C388.295975,186.980315 389.121785,215.307495 384.243718,235.783607 C383.638024,238.326063 382.989746,240.495156 382.342399,242.293593 C382.116661,242.920729 381.907475,243.456202 381.720279,243.900346 C381.609244,244.163789 381.531077,244.336569 381.491217,244.419018 L381.343279,244.72502 L381.573392,244.975161 C390.929422,255.145509 398.301696,266.967862 403.311929,279.835571 C413.201318,296.09652 414.777313,315.945171 407.654922,333.422199 C407.465678,332.411378 407.188643,331.307619 406.807632,330.13196 C405.558032,326.276158 403.458603,322.422569 400.310405,318.828208 C393.494512,311.046367 382.768346,305.582108 367.368841,303.44604 C357.80105,302.102059 349.488365,303.438763 339.81688,307.319165 C336.838439,308.514177 333.819571,309.896439 329.642722,311.934607 C328.878028,312.307753 328.097186,312.691412 327.022082,313.221551 C326.72724,313.366939 326.359603,313.54833 325.692438,313.877508 C325.156853,314.141713 324.748444,314.342989 324.348029,314.539987 C322.155986,315.618439 320.478504,316.432077 318.794563,317.22821 C297.314805,327.383411 278.367331,332.036251 250.734202,331.355407 C175.09362,329.917404 105.023005,291.560755 63.2039215,228.764594 C68.4030918,231.639354 81.824551,239.095472 86.555034,241.632578 C104.534428,251.275492 119.375083,257.93607 134.905421,262.736259 C154.233771,268.710355 173.214465,271.176423 192.585242,269.63482 C213.245311,267.99061 229.203879,264.473657 241.068086,259.638353 C247.000731,257.22048 251.528661,254.625102 254.83768,252.023492 C256.002711,251.107523 256.932812,250.254301 257.651188,249.485383 C258.089247,249.016503 258.362214,248.674958 258.49337,248.482376 L258.755666,248.097233 L258.389932,247.80849 C198.548842,200.564501 145.460376,145.392069 100.640013,83.7863698 C119.470796,99.2255838 150.049682,121.561294 187.289164,147.552597 C201.14722,157.224829 215.020734,166.765261 227.517001,175.254209 C232.169756,178.414913 236.335524,181.227852 239.452172,183.317162 C240.767883,184.199176 241.820786,184.901243 242.500071,185.349848 C242.824243,185.563933 243.056612,185.715853 243.189414,185.800528 C243.272909,185.853765 243.315166,185.87972 243.35093,185.897734 C243.369048,185.906907 243.369048,185.906907 243.413136,185.924369 C243.467693,186.003861 243.467693,186.003861 244.036835,185.659249 C243.939968,185.028084 243.939968,185.028084 243.903805,185.070046 C243.865868,185.039118 243.865868,185.039118 243.834754,185.016269 C206.295582,148.413984 171.820468,108.72139 140.876144,66.340378 C141.948582,67.2165533 143.126922,68.1782242 144.403012,69.2185303 C149.816468,73.6317381 155.871372,78.5492771 162.42068,83.8450741 C181.133093,98.9760075 200.058458,114.106982 218.020559,128.229512 C219.898951,129.70638 221.758957,131.165989 223.599705,132.607592 C272.595876,170.979509 303.521556,193.246048 309.105997,192.884476 L309.39609,192.865693 L309.523287,192.604298 C312.176792,187.151249 313.995433,182.724304 315.8562,176.172941 C318.609666,166.47857 320.134938,155.713321 320.020271,143.77204 C319.715405,112.023687 308.000931,76.3201268 281.448411,36.7721945 C284.49311,38.6712814 290.698191,42.7214586 295.776067,46.3546561 Z M279.607842,35.6790954 L279.58852,35.6984632 C279.557659,35.6676737 279.564847,35.6616533 279.607842,35.6790954 Z" id="Path" stroke="#F97331" fill-opacity="0.02" fill="url(#linearGradient-1)"></path>
+                <g id="lines" transform="translate(61, 34)" fill="#C1C1C1" stroke="#8D8D8D" stroke-linecap="square">
+                    <g id="Line" transform="translate(35, 45)">
+                        <line x1="47.5" y1="65.5" x2="0.5" y2="0.5"></line>
+                    </g>
+                    <g id="Line" transform="translate(76, 26)">
+                        <line x1="31.6666667" y1="47.6363636" x2="0.333333333" y2="0.363636364"></line>
+                    </g>
+                    <g id="Line" transform="translate(35, 45)">
+                        <line x1="43.5416667" y1="36.719697" x2="0.458333333" y2="0.28030303"></line>
+                    </g>
+                    <g id="Line" transform="translate(143, 113)">
+                        <line x1="40.5729167" y1="38.7045455" x2="0.427083333" y2="0.295454545"></line>
+                    </g>
+                    <g id="Line" transform="translate(134, 165)">
+                        <line x1="62.34375" y1="49.6212121" x2="0.65625" y2="0.378787879"></line>
+                    </g>
+                    <g id="Line" transform="translate(218, 0)">
+                        <line x1="62.34375" y1="91.3030303" x2="0.65625" y2="0.696969697"></line>
+                    </g>
+                    <g id="Line" transform="translate(296, 45)">
+                        <line x1="39.5833333" y1="133.977273" x2="0.416666667" y2="1.02272727"></line>
+                    </g>
+                    <g id="Line" transform="translate(251, 153.5) scale(-1, 1) translate(-251, -153.5)translate(249, 148)">
+                        <line x1="3.95833333" y1="10.9166667" x2="0.0416666667" y2="0.0833333333"></line>
+                    </g>
+                    <g id="Line" transform="translate(236, 159)">
+                        <line x1="12.8645833" y1="0.496212121" x2="0.135416667" y2="0.00378787879"></line>
+                    </g>
+                    <g id="Line" transform="translate(321, 211)">
+                        <line x1="9.89583333" y1="9.92424242" x2="0.104166667" y2="0.0757575758"></line>
+                    </g>
+                    <g id="Line" transform="translate(338, 232)">
+                        <line x1="4.94791667" y1="13.8939394" x2="0.0520833333" y2="0.106060606"></line>
+                    </g>
+                    <g id="Line" transform="translate(343, 246)">
+                        <line x1="9.89583333" y1="16.8712121" x2="0.104166667" y2="0.128787879"></line>
+                    </g>
+                    <g id="Line" transform="translate(351, 292) scale(-1, 1) translate(-351, -292)translate(347, 283)">
+                        <line x1="7.91666667" y1="17.8636364" x2="0.0833333333" y2="0.136363636"></line>
+                    </g>
+                    <g id="Line" transform="translate(308.5, 270.5) scale(-1, -1) translate(-308.5, -270.5)translate(271, 265)">
+                        <line x1="74.21875" y1="10.9166667" x2="0.78125" y2="0.0833333333"></line>
+                    </g>
+                    <g id="Line" transform="translate(186, 298.5) scale(-1, -1) translate(-186, -298.5)translate(113, 297)">
+                        <line x1="144.479167" y1="2.97727273" x2="1.52083333" y2="0.0227272727"></line>
+                    </g>
+                    <g id="Line" transform="translate(131.5, 236) scale(-1, 1) translate(-131.5, -236)translate(77, 232)">
+                        <line x1="107.864583" y1="7.93939394" x2="1.13541667" y2="0.0606060606"></line>
+                    </g>
+                    <g id="Line" transform="translate(21, 225.5) scale(-1, -1) translate(-21, -225.5)translate(0, 193)">
+                        <line x1="41.5625" y1="64.5075758" x2="0.4375" y2="0.492424242"></line>
+                    </g>
+                    <g id="Line" transform="translate(21, 225.5) scale(-1, -1) translate(-21, -225.5)translate(0, 193)">
+                        <line x1="41.5625" y1="64.5075758" x2="0.4375" y2="0.492424242"></line>
+                    </g>
+                    <g id="Line" transform="translate(17, 202) scale(-1, -1) translate(-17, -202)translate(0, 193)">
+                        <line x1="33.6458333" y1="17.8636364" x2="0.354166667" y2="0.136363636"></line>
+                    </g>
+                    <g id="Line" transform="translate(296, 45)">
+                        <line x1="39.5833333" y1="133.977273" x2="0.416666667" y2="1.02272727"></line>
+                    </g>
+                </g>
+                <g id="daireler" transform="translate(57, 29.3535)" fill="#F97331" stroke="#FFFFFF" stroke-width="1.5">
+                    <g id="node" transform="translate(316.5, 115.5)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(247.5, 159)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(217.5, 0)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(75, 27)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(34.5, 45)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(183, 151.5)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(130.5, 235.5)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(189, 297)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(306, 270)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(342, 244.5)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(345, 300)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(319.5, 210)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(195, 214.5)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                    <g id="node" transform="translate(0, 192)">
+                        <circle id="Oval" cx="5.25" cy="5.25" r="4.5"></circle>
+                    </g>
+                </g>
+                <g id="kucuk" transform="translate(92, 76)" fill="#FFFFFF">
+                    <g id="Oval2" transform="translate(48, 65)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(101, 121)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(152, 187)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(42, 195)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(0, 166)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(8, 213)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(80, 252)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(224, 255)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(237, 220)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(312, 231)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(321, 239)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(319, 217)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(304, 187)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(297, 176)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(302, 135)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(263, 0)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(246, 47)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(219, 104)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(202, 114)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(74, 28)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(109, 68)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                    <g id="Oval2" transform="translate(45, 36)">
+                        <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
