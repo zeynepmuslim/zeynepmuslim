@@ -45,6 +45,7 @@ npx zeynep # Run this in your terminal and let the magic happen
 
 ## ✒️ Selected writing
 
+- [*Creating Smooth Path Morphing Animations in Swift*](https://www.zeynepmuslim.blog/post?post=swift-morph-animation-eng%2Fswift-morph-animation-eng.md)
 - [*How to Code a Rolling Ball with Swift*](http://zeynepmuslim.blog/post.html?post=draggable-ball-eng%2Fdraggable-ball-eng.md)
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
